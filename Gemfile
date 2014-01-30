@@ -44,4 +44,4 @@ end
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
-gem 'clearance'
+gem 'clearance', '~> 1.1.0'
